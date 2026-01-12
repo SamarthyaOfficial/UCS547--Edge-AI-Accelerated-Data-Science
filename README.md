@@ -1,13 +1,14 @@
-# Edge AI and Robotics : Accelerated Data Science (UCS547)
-Name: Samarthya Dev Gupta 
 
-Roll No.: 102315018
+# EDGE AI & Robotics: Accelerated Data Science (UCS547)
 
-Semester: 6th
+**Name:** Samarthya Dev Gupta
 
-Branch: ENC
+**Roll No.:** 102315018
 
-Sub-Group: 3O11
+**Semester:** 6th
 
-Course Instructor: Dr. Manisha Malik
+**Branch:** COPC
 
+**Sub-Group:** 3O11
+
+**Course Instructor:** Dr. Manisha Malik
