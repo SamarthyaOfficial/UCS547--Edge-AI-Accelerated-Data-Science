@@ -1,14 +1,13 @@
-
 # EDGE AI & Robotics: Accelerated Data Science (UCS547)
 
-**Name:** Samarthya Dev Gupta
+**Name:** Vishav Gupta
 
-**Roll No.:** 102315018
+**Roll No.:** 102497018
 
 **Semester:** 6th
 
 **Branch:** COPC
 
-**Sub-Group:** 3O11
+**Sub-Group:** 3Q26
 
 **Course Instructor:** Dr. Manisha Malik
